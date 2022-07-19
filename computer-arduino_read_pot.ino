@@ -1,6 +1,7 @@
 //computer-arduino_read_pot.ino
 /*From Blum pg 163 designed to be used with 
 Processing file: screen-processing_display_color.pde
+for use with arduino but this program was used on ESP32
 */
 
 // Potentiometer is connected to GPIO 15 (Analog ADC2_CH3) 
