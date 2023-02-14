@@ -2,6 +2,8 @@
 /*From Blum pg 163 designed to be used with 
 Processing file: screen-processing_display_color.pde
 for use with arduino but this program was used on ESP32
+note for the map value Arduino has an anolog in range of 0 - 1023
+whereas an esp 32 has a range of 0 - 4095
 */
 
 // Potentiometer is connected to GPIO 15 (Analog ADC2_CH3) 
